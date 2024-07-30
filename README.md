@@ -9,3 +9,7 @@ The MY_KERNEL_DOCUMENTATION_ROUGH contains all of the things that I've noticed w
 ## 'cscope': A programming tool to able to navigate through the source code efficiently
 ## 'find . -name file_name': This is a terminal command to recursively search for the given file name in the current directory and all of it's sub-directories.
 ## 'grep -r pattern .': This is another terminal command to recursively search for a given pattern in all the files in the current directory as well as it's sub-directories.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
